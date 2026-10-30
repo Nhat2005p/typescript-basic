@@ -38,3 +38,4 @@ const currentTrainee: User = {
 };
 
 console.log("Basic Types loaded:", currentTrainee);
+

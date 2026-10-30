@@ -31,3 +31,4 @@ const someValue: unknown = "This is a string";
 const strLength: number = (someValue as string).length;
 
 console.log(greet("Sun*"), "Length:", getLength(["TS", "JS"]), strLength);
+

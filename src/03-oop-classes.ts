@@ -29,3 +29,4 @@ class MemberAccount extends BaseAccount {
 
 const acc = new MemberAccount(101, "nhat_dev", "secret123");
 console.log(acc.getAccountRole());
+

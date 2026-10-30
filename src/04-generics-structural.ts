@@ -33,3 +33,4 @@ type TaskWithoutDesc = Omit<Task, "description">;
 
 const preview: TaskPreview = { id: 1, title: "Complete TS Repo" };
 console.log("Generics & Utility:", stringArray, numberArray, preview);
+
