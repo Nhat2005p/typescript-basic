@@ -1,0 +1,21 @@
+{
+  "name": "typescript-basic",
+  "version": "1.0.0",
+  "description": "TypeScript Fundamental Practice",
+  "main": "dist/01-basic-types.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/01-basic-types.js"
+  },
+  "keywords": [
+    "typescript",
+    "tutorial",
+    "practice"
+  ],
+  "author": "Nhat2005p",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "typescript": "^7.0.2"
+  }
+}
